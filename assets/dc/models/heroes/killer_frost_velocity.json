@@ -1,0 +1,13 @@
+{
+    "parent": "fiskheroes:hero_speedster",
+    "resources": {
+      "layer1": "dc:killerfrost_layer_1",
+      "layer2": "dc:killerfrost_layer_2"
+    },
+    "custom": {
+        "fiskheroes:trail": {
+          "type": "dc:lightning_blue",
+          "conditionals": ["vars:SPEEDING"]
+        }
+    }
+  }

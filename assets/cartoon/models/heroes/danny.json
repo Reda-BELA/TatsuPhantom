@@ -1,0 +1,27 @@
+{
+  "parent": "fiskheroes:hero_basic",
+  "resources": {
+    "layer1": "dannyphantom:danny_phantom_layer1",
+    "layer2": "dannyphantom:danny_phantom_layer2"
+  },
+  "fixHatLayer": ["CHESTPLATE"],
+  "itemIcons": {
+    "CHESTPLATE": "dannychest",
+    "LEGGINGS": "dannylegs",
+    "BOOTS": "dannyfeet"
+  },
+  "custom": {
+    "fiskheroes:energy_projection": {
+      "color": "0x00FF00",
+      "useHands": false,
+      "beams": [
+        {
+          "offset": [-6.0, -2.0],
+          "size": [2.0, 2.0]
+        }
+      ]
+    }
+  }
+}
+
+  

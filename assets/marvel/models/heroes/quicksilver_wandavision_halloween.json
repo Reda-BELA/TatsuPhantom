@@ -1,0 +1,13 @@
+{
+    "parent": "fiskheroes:hero_speedster",
+    "resources": {
+      "layer1": "marvel:quicksilver_layer_1",
+      "layer2": "marvel:quicksilver_layer_2"
+    },
+    "custom": {
+      "fiskheroes:trail": {
+        "type": "marvel:quicksilver",
+        "conditionals": ["vars:SPEEDING"]
+      }
+    }
+  }

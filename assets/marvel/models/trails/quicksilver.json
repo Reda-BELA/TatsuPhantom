@@ -1,0 +1,12 @@
+{
+    "lightning": {
+      "color": 0xE0FFFF,
+      "density": 2,
+      "differ": 0.5,
+      "opacity": 0.7
+    },
+    "blur": {
+      "color": 0x80869B,
+      "opacity": 0.9
+    }
+  }

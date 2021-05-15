@@ -1,0 +1,8 @@
+{
+    "parent": "fiskheroes:hero_speedster",
+    "resources": {
+      "layer1": "marvel:quicksilver_apocalypse_layer_1",
+      "layer2": "marvel:quicksilver_apocalypse_layer_2"
+    }
+  }
+        
